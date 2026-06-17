@@ -1,0 +1,11 @@
+﻿plugins {
+    id 'com.android.application'
+    id 'com.google.gms.google-services'
+}
+
+android {
+    namespace "com.example.quizgame"
+    defaultConfig {
+        applicationId "com.example.quizgame"
+    }
+}
